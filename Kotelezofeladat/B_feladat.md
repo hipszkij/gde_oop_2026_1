@@ -6,11 +6,13 @@ Ez a projekt egy egyszerű repülőjegy foglalási rendszert valósít meg, ahol
 
 - Pythonban készítsétek a vizsgafeladatot.
 - Csináljatok egy "adatok.txt" fájlt, amiben töltsétek ki a neveteket, szakotokat és Neptun kódotokat.
-- A kész projektet osszátok meg a saját GitHub repositorytokban PUBLIC-ra, és a repository URL-jét küldjétek el emailben a **hipszki.janos@gde.hu** címre.
-- **Határidő: 2025.06.01.**
+- A kész projektet osszátok meg a saját GitHub repositorytokban PUBLIC-ra, és a repository URL-jét kell a Neptun feladatokhoz megjegyzésbe bemásolni.
+- **Határidő: 2026.05.24 23:59:59.**
 - Elküldés előtt tegyétek meg a következőket:
   - Egy browser incognito ablakában nézzétek meg az elküldendő GitHub repositoryt (látható, fent van az utolsó commit is).
   - Clone-ozzátok ki a repositoryt PyCharm-ban, és nézzétek meg, hogy futtatható-e (így fogom én is tesztelni, el kell induljon a projekt, hogy értékelni tudjam).
+- Elevator pitch videó készítése
+  - Rövid 2 nagyon max 3 perces videó ahol bemutatjátok az elkészült project feladatot. 
 
 ## Fő osztályok
 
