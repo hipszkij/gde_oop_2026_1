@@ -1,0 +1,3 @@
+# ZH lehetséges kérdések listája
+
+ - hamarosan...
